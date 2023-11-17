@@ -8,7 +8,7 @@ Quests são desafios a serem feitos ao longo do curso para testar os conheciment
 ### Sobre essa QUEST
 O desafio é inserir novas funcionalidades do projeto que foi trabalhado com a API do GitHub.
 
-[Link do projeto]()
+[Link do projeto](https://eduardosousadev.github.io/quest-js-avancado/)
 
 ### Layout
 <img width='500' src="src/designer/desktop.png" />
