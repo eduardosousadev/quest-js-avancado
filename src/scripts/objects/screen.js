@@ -42,7 +42,7 @@ const screen = {
                 <li>
                     <b>${event.repo.name}</b> 
                     <span>&nbsp; - &nbsp; </span> 
-                    <span>${event.payload.repository_id ? event.payload.commits[0].message : 'Sem commits'}</span>
+                    <span>${event.payload.repository_id ? event.payload.commits[0].message : 'Sem mensagens'}</span>
                 </li>
             `;
         });
